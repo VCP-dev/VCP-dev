@@ -15,8 +15,8 @@
 ### Languages and Tools:
 
 
-<br/>
-<br/>
+<br />
+<br />
 <details>
   <summary>:octocat: Github Stats</summary>
   <img alt="VCP's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=VCP-dev&&show_icons=true&title_color=ea00f5&icon_color=ea00f5&text_color=000&bg_color=fff">
