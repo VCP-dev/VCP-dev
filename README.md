@@ -8,6 +8,9 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Vinay Paul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vinay Paul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Vinay Paul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -25,4 +28,7 @@
 
 
 
+[twitter]:https://twitter.com/VinayCPaul
+[instagram]:https://www.instagram.com/vinay_paul490
+[linkedin]:https://www.linkedin.com/in/vinay-c-paul-a1b269188
 
