@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img style="color:blue;" align="left" alt="Vinay Paul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="color:blue;" align="left" alt="Vinay Paul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="color:blue;" align="left" alt="Vinay Paul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img style="background-color:blue;" align="left" alt="Vinay Paul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="background-color:blue;" align="left" alt="Vinay Paul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="background-color:blue;" align="left" alt="Vinay Paul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
